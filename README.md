@@ -1,16 +1,20 @@
-#STADIOEquities Capestone Project – Early Account Activation Prediction
+# STADIOEquities Capstone Project — Early Account Activation Prediction
+
 **Module:** CAP182 Capstone Project
-** Client: ** STADIOEquities
-** Submission: ** SS1 Project Proposal 
-** Prepared by: ** Tracy-Lee (Student number: 21620896)
+**Client:** STADIOEquities
+**Submission:** SS1 Project Proposal
+**Author:** Tracy-lee (Student number: 21620896)
+
 ---
 
 ## Table of contents
-1.	[Motivation (Part A) ](#1-motivation-part-a)
-2.	[Problem statement (Part B) ] (#2-problem-statement-part-b)
-3.	[RAAID log (Part D) ](#3-repository-structure-part-d)
-4.	[RAAID log (Part E) ] (#4-raaidd-log-part-e)
-5.	[Data request (Part C) ] (#5-data-request-part-c)
+
+1. [Motivation (Part A)](#1-motivation-part-a)
+2. [Problem statement (Part B)](#2-problem-statement-part-b)
+3. [Repository structure (Part D)](#3-repository-structure-part-d)
+4. [RAAIDD log (Part E)](#4-raaidd-log-part-e)
+5. [Data request (Part C)](#5-data-request-part-c)
+
 ---
 
 ##1. Motivation (Part A)
