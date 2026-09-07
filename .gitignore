@@ -1,0 +1,34 @@
+# Data — keep raw/processed data out of version control (only structure + docs are tracked)
+data/raw/*
+data/processed/*
+data/external/*
+!data/**/.gitkeep
+!data/**/README.md
+*.csv
+*.parquet
+*.xlsx
+
+# Models — large binaries
+models/*.pkl
+models/*.joblib
+models/*.h5
+!models/.gitkeep
+!models/README.md
+
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+env/
+
+# OS / editor
+.DS_Store
+.idea/
+.vscode/
+
+# Secrets
+*.env
+.env
+credentials.json
