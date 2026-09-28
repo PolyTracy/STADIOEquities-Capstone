@@ -1,0 +1,20 @@
+{
+  "accuracy": 0.8581,
+  "balanced_accuracy": 0.7615,
+  "precision": 0.4153,
+  "recall": 0.6369,
+  "f1": 0.5028,
+  "roc_auc": 0.8134,
+  "pr_auc": 0.49,
+  "confusion_matrix": {
+    "tn": 6478,
+    "fp": 832,
+    "fn": 337,
+    "tp": 591
+  },
+  "best_params": {
+    "clf__max_depth": 10,
+    "clf__min_samples_leaf": 5
+  },
+  "cv_roc_auc": 0.7955
+}
